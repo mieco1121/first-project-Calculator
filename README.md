@@ -11,4 +11,9 @@ Free Source Code
 ![image](https://user-images.githubusercontent.com/42195905/148726753-895ab4cf-731d-4d3c-8abf-b4fc1dfbb19d.png)
 
 
-**COPYRIGHT 2022**
+**COPYRIGHT ©2022**
+
+Project #1
+
+_Status:_**Worked!**
+_Work Time:_**EST:1 Day**
